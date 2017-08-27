@@ -1,10 +1,6 @@
 import sys
 import numpy as np
 
-# def pair(a):
-# 	global temp
-# 	l=(temp,a)
-# 	return l
 
 fname = sys.argv[1]
 fp = open(fname, 'r')
